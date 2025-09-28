@@ -68,7 +68,7 @@ Linux is a family of operating systems based on the Linux kernel, similar to Win
 
 ### Popular Linux Distributions
 
-Linux comes in different versions known as *distributions* (distros). Each distro has unique features, software management tools, and target audiences. Some popular Linux distributions include:
+Linux comes in different versions known as distributions (distros). Each distro has unique features, software management tools, and target audiences. Some popular Linux distributions include:
 
 | Distribution | Target Users       | Key Features                                        | Ideal Use Case                  |
 |--------------|-----------------|----------------------------------------------------|--------------------------------|
@@ -457,4 +457,5 @@ The key and terms are listed in the following table:
 | **Partition** | A division of a hard drive into sections for storing operating systems and files. |
 | **Swap space** | A partition or file used as virtual memory when the system runs out of physical RAM. |
 | **Checksum** | A code (such as SHA256) used to verify the integrity of a downloaded ISO file and ensure it is not corrupted. |
+
 | **Package manager** | A tool for installing, updating, and removing software in Linux distributions (examples: `apt` for Ubuntu, `dnf` for Fedora, `pacman` for Arch).|
